@@ -1,0 +1,2 @@
+[submodule "logs"]
+	url = https://github.com/microservices-course-itmo/logs
